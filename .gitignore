@@ -1,0 +1,13 @@
+# Original genome datasets
+ncbi_dataset*/
+ncbi_dataset */
+
+# Intermediate and large processed files
+data/processed/selected_chromosomes.fna
+data/processed/ecoli_dna_fragments.csv
+data/processed/ecoli_kmer_features.csv
+
+# Python and Jupyter temporary files
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
