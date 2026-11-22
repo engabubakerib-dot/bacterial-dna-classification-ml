@@ -204,7 +204,13 @@ Bioinformatics | Computational Biology | Machine Learning
 
 ## 📄 License
 
-A license has not yet been specified for this repository.
+This project is licensed under the **MIT License**.
+
+You are free to use, modify, and distribute the project's code, subject to the conditions specified in the license.
+
+See the [LICENSE](LICENSE) file for the full license text.
+
+**Copyright © 2026 Abubaker Izzeldeen Babelkhair.**
 
 ---
 
